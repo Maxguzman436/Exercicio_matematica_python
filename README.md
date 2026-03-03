@@ -1,1 +1,3 @@
-# Exercicio_matematica_python
+## Exercicio matematica python
+
+#Operações basicas em python
